@@ -13,7 +13,7 @@ public class ConsoleReader {
 		int num = Integer.parseInt(str2);
 
 		return num;
-
+		//終了
 	}
 
 }
